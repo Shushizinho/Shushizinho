@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=#8A2BE2&duration=4000&lines=Helloo+👋;+I'm+Ana+Silva!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=8A2BE2&duration=4000&lines=Helloo+👋;+I'm+Ana+Silva!;" />
 </h1>
 
 ### A aspiring Full Stack developer, AI & Cybersecurity enthusiast and specially lifelong learner
