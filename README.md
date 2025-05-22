@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Shushizinho/Shushizinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ana+Silva+(aka:+Shushizinho)!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm + Ana+Silva+(aka:+Shushizinho)!;" />
 </h1>
 
 ### A aspiring Full Stack developer, AI & Cybersecurity enthusiast and specially lifelong learner
