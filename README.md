@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=9370DB&duration=4000&lines=Helloo+👋;+I'm+Ana+Silva!"
+    src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=9370DB&duration=4000&lines=Hello+👋;+I'm+Ana+Silva!"
     alt="Typing animation: Hello 👋 I'm Ana Silva!"
     style="max-width: 100%; height: auto;"
   />
