@@ -13,15 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center; font-family: Arial, sans-serif; margin-top: 20px;">
-  <p style="font-size: 18px; color: #555;">Visitor Count</p>
-  <img 
-    src="https://profile-counter.glitch.me/{Shushizinho}/count.svg" 
-    alt="Visitor Count" 
-    style="margin-top: 5px; width: 120px; height: auto;" 
-  />
-</div>
-
 
 <h1 align="center">
   <img
