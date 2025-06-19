@@ -22,5 +22,10 @@ Here are some ideas to get you started:
   />
 </h1>
 
+<p>
+  Check out my CV with some fun little games here:
+  <a href="https://ana-silva-cv-games.vercel.app/" target="_blank">Ana Silva's CV </a>
+</p>
+
 
 ### A aspiring Full Stack developer, AI & Cybersecurity enthusiast and specially lifelong learner
