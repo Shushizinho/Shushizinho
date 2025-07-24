@@ -27,5 +27,12 @@ Here are some ideas to get you started:
   <a href="https://ana-silva-cv-games.vercel.app/" target="_blank">Ana Silva's CV </a>
 </p>
 
+<p>
+  Check out my Blog with my jorney in cybersecurity:
+  <a href="https://shushizinho.github.io/" target="_blank">Ana Silva's Blog </a>
+</p>
+
+
+
 
 ### A aspiring Full Stack developer, AI & Cybersecurity enthusiast and specially lifelong learner
